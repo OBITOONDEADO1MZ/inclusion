@@ -1,4 +1,6 @@
 # Diversity & Inclusion in Open Source
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Finclusion.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Finclusion?ref=badge_shield)
+
 
 Welcome!  This repository contains a number of resources, templates, standards and other useful things for open (source, education, knowledge, science) projects.  
 
@@ -95,3 +97,7 @@ Welcome!  This repository contains a number of resources, templates, standards a
 * [We See You - Reaching Diverse Audiences in FOSS](https://medium.com/mozilla-open-innovation/we-see-you-reaching-diverse-audiences-in-foss-4e83efc86425)
 * [Innovation for Inclusion in the Mozilla Open Source Support (MOSS) Program](https://blog.mozilla.org/careers/innovating-for-inclusion-in-the-mozilla-open-source-support-program/)
 * [Words Matter - Mozilla Removes Meritocracy from our Governance](https://blog.mozilla.org/careers/words-matter-moving-beyond-meritocracy/)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Finclusion.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOBITOONDEADO1MZ%2Finclusion?ref=badge_large)
